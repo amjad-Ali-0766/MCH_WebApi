@@ -1,0 +1,10 @@
+{
+  "MailSettings": {
+    "DisplayName": "Amjad Ali",
+    "From": "amjadali0766@gmail.com",
+    "Host": "smtp.gmail.com",
+    "Password": "uzrtixtyopgpepkl",
+    "Port": 587,
+    "UserName": "amjadali0766@gmail.com"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Data Source=DESKTOP-4FT0KI8\\SQLEXPRESS2019;Initial Catalog=Boilerplate;Integrated Security=True;Trust Server Certificate=True;MultipleActiveResultSets=True"
+  }
+}
